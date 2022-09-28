@@ -415,3 +415,8 @@ p {
     background: beige;
     color: #000;
   }
+  
+  .contact{
+      min-height: 80vh;
+      
+  }

@@ -24,7 +24,7 @@
                             <a class="nav-link" href="/../bookstore/pages/requestforbook.php">Request For Book</a></li>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/bookstore/index.php#contact">Contact</a>
+                            <a class="nav-link" href="/bookstore/pages/contact.php">Contact</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#nodata" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
