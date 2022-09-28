@@ -1,0 +1,152 @@
+@media (max-width:1030px) {
+
+    /* Home css */
+    .home .home-banner-1,
+    .home .home-banner-2 {
+        background-position: 65% center;
+        min-height: 550px;
+    }
+
+    .home .home-banner .home-banner-text h2 {
+        font-size: 1.2rem;
+    }
+
+    /* Offers css */
+
+
+    .offers .offer-box .offer-info .heading-bigger {
+        font-size: 3rem;
+    }
+
+    /* Products */
+
+    .products .up_to_content h2 {
+        color: var(--text-white);
+        font-size: 1.25rem;
+    }
+
+    /* Special css */
+
+}
+
+@media (max-width:991px) {
+
+    /* Home css */
+    .home .home-banner-1,
+    .home .home-banner-2 {
+        background-position: 55% center;
+    }
+
+    /* Offers css */
+
+    .offers {
+        height: auto;
+    }
+
+    /* Profucts */
+
+    .products .up_to_content h2 {
+        color: var(--text-white);
+        font-size: 0.925rem;
+    }
+
+    /* Special css */
+
+
+    /* Testimonial css */
+
+
+}
+
+@media (max-width:767px) {
+    /* Home css */
+
+    .home .home-banner-1,
+    .home .home-banner-2 {
+        background-position: 50% center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .home .home-banner .home-banner-text {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .home .home-banner .home-banner-text h1 {
+        font-size: 3rem;
+    }
+
+    .home .home-banner .home-banner-text h2 {
+        font-size: 1.3rem;
+        text-align: center;
+    }
+
+    .products .up_to_content h2 {
+        color: var(--text-white);
+        font-size: 0.725rem;
+        left: 30%;
+    }
+
+    /* Offer css */
+
+    /* Product css */
+
+
+    /* Special css */
+
+
+    /* Testimonial css */
+
+
+}
+
+@media (max-width:330px) {
+
+    /* Home css */
+    .home .home-banner-1,
+    .home .home-banner-2 {
+        min-height: 450px;
+    }
+
+    .home .home-banner .home-banner-text a {
+        font-size: 0.85rem;
+    }
+
+    /* Offer css */
+
+    .offers .offer-box .offer-info .heading-bigger {
+        font-size: 1.5rem;
+    }
+
+    .offers .offer-box .offer-info .offer-title-1 {
+        font-size: .8rem;
+    }
+
+    .offers .offer-box .offer-info .btn-outline-danger {
+        margin-top: 0 !important;
+    }
+
+    .products .up_to_content h2 {
+        color: var(--text-white);
+        font-size: 0.625rem;
+        left: 30%;
+    }
+
+    /* Product css */
+
+
+    /* Special css */
+
+
+    /* Testimonial css */
+
+
+}

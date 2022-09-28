@@ -1,0 +1,1 @@
+<body data-bs-spy="scroll" data-bs-target=".navbar">
